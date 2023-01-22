@@ -5,5 +5,5 @@ Here is a bullet list:
 Inline: $t_{x + 1} = 5$
 N
 f(x) = ²3i+2
-6=0
-$f(x)=\sum _{i=0}^N
+
+Inline: $f(x)=\sum _{i=0}^N
